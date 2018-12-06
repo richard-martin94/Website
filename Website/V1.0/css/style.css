@@ -69,7 +69,6 @@ body {
     line-height: 20px;
     font-style:italic;
 }
-
 .right{
     float:right;
 }
@@ -131,7 +130,7 @@ body {
     font-size: 15pt;
     color: #fff;
     font-family: 'Cousine';
-                              }
+}
 .firstGame {
     text-align: center;
     display: grid;
@@ -175,7 +174,7 @@ body {
         height: 500px;
         position: absolute;
         overflow: hidden;
-        }
+    }
 
     .jam img {
         width: 500px;
