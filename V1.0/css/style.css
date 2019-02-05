@@ -121,7 +121,8 @@ body {
     -moz-box-shadow: 0 0 15px rgba(16, 35, 63,.9);
     box-shadow: 0 0 15px rgba(16, 35, 63,.9);
 }
-    .me a {
+    .me a 
+    {
         color: #91D5F2;
     }
 .section-Lead {
@@ -160,7 +161,6 @@ body {
     border: 10px solid rgba(16, 35, 63,.9);
 
     margin: auto;
-    cursor: default;
     position: relative;
     overflow: hidden;
     cursor: default;
@@ -175,7 +175,6 @@ body {
         position: absolute;
         overflow: hidden;
     }
-
     .jam img {
         width: 500px;
         height: 500px;
@@ -218,6 +217,7 @@ body {
 
 .profiles {
     display: grid;
+    margin:auto;
     grid-auto-columns: 1fr;
     column-gap: 15px;
     text-align: center;
